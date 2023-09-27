@@ -14,9 +14,9 @@ const menus = {
     '3': `Some of my Projects:<br><br>
 - <strong>DiscordWizard</strong>: A user-friendly Discord server mirrorer and cloner. <a href="https://github.com/glizzykingdreko/DiscordWizard" target="_blank">[GitHub]</a><br>
 - <strong>CALINTRA</strong>: A Chrome extension designed for 42School students, enabling seamless synchronization of events with the page calendar. <a href="https://github.com/glizzykingdreko/CalIntra" target="_blank">[GitHub]</a><br>
-- <strong>PerimeterX AST Deobfuscator</strong>: A tool to deobfuscate and understand PerimeterX's Advanced Scripting Threats. <a href="https://github.com/glizzykingdreko/PerimeterX-Deobfuscator" target="_blank">[GitHub]</a><br>
-- <strong>TMX AST Deobfuscator</strong>: A dedicated deobfuscator for TMX's Advanced Scripting Threats. <a href="https://github.com/glizzykingdreko/TMX-Deobfuscator" target="_blank">[GitHub]</a><br>
-- <strong>ADyen 4.5.0 payment encryption in node</strong>: A node-based solution for secure payment encryption using ADyen 4.5.0. <a href="https://github.com/glizzykingdreko/adyen-4.5.0" target="_blank">[GitHub]</a><br>
+- <strong>PerimeterX AST Deobfuscator</strong>: A tool to deobfuscate and understand PerimeterX's init script. <a href="https://github.com/glizzykingdreko/PerimeterX-Deobfuscator" target="_blank">[GitHub]</a><br>
+- <strong>TMX AST Deobfuscator</strong>: A dedicated deobfuscator for TMX's dynamic scripts. <a href="https://github.com/glizzykingdreko/TMX-Deobfuscator" target="_blank">[GitHub]</a><br>
+- <strong>Adyen 4.5.0 payment encryption in node</strong>: A node-based solution for secure payment encryption using Adyen 4.5.0. <a href="https://github.com/glizzykingdreko/adyen-4.5.0" target="_blank">[GitHub]</a> | <a href="https://github.com/glizzykingdreko/adyen-4.5.0" target="_blank">[v4.4.1]</a><br>
 - <strong>TakionAPI</strong>: An industry-leading antibot bypass provider. <a href="https://takionapi.tech/github" target="_blank">[GitHub]</a> | <a href="https://Takionapi.tech/discord" target="_blank">[Discord]</a><br>
 - <strong>This Landing Page</strong>: Check out the code and design of this landing page. <a href="https://codepen.io/glizzykingdreko" target="_blank">[CodePen]</a><br><br>
 <span onclick="handleMenuClick('B')">[B] Back</span>`,
